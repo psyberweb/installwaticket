@@ -1,0 +1,35 @@
+PROGRAMAS PARA INSTALAÇÃO NA VPS
+
+-----------------------------------
+1- Precisa ter uma VPS e um dominio - Recomendamos contabo 
+-----------------------------------
+2-https://github.com/ - Criar uma conta para subir os arquivos.
+
+Comandos para subir os arquivos abaixo
+
+git init 
+git add . 
+git commit -m "primeiro commit"
+git branch -M main 
+git remote add origin (junto com o link do repositório) 
+git push -u origin main 
+
+videos de apoio - https://www.youtube.com/watch?v=lv5a80XgzlI
+----------------------------------------
+3-Após subir o instalador e o codigo em pastas diferentes no git
+vamos iniciar a instalação atraves do programa bitvise ssh
+
+https://www.bitvise.com/ssh-client-download.
+
+Agora so da inicio a instalação usando o comando do instalador.
+
+
+FIM
+
+
+https://github.com/ctichat/versao-gratis
+
+
+
+
+
